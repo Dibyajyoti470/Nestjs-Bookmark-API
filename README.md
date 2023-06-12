@@ -34,12 +34,12 @@ $ npm install
 
 ## Set up the environment
 Create the following files:
-.env
-.env.test
+- .env
+- .env.test
 
 Define the following variabls in each of the above files
-DATABASE_URL
-JWT_SECRET
+- DATABASE_URL
+- JWT_SECRET
 
 Give separate ports in DATABASE_URL defined in .env and .env.test files.
 
